@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @javaliKai
+- 🏛 I'm Indonesian
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning java, python, ui/ux design using figma
+- 💞️ I’m looking to collaborate on (still not sure abt this :D)
+- 📫 How to reach me: tommynicholas65@gmail.com
